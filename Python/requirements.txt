@@ -1,0 +1,9 @@
+#Requirements
+#Pandas
+import pandas as pd
+#Numpy
+import numpy as np
+#Matplotlib
+import matplotlib.pyplot as plt
+#Seaborn
+import seaborn as sns
